@@ -1,3 +1,9 @@
 git
 vim
 tree
+curl 
+dirmngr 
+apt-transport-https 
+lsb-release 
+ca-certificates
+nodejs

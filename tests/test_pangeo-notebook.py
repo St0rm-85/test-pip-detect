@@ -8,7 +8,9 @@ packages = [
     # to dependencies outside the python world
     'netCDF4', 'h5py', 'rasterio', 'geopandas', 'cartopy', 'geoviews',
     # key packages
-    'gcsfs', 's3fs', 'xarray', 'intake'
+    'gcsfs', 's3fs', 'xarray', 'intake',
+    # visualization packages
+    'keplergl'
     ]
 
 @pytest.mark.parametrize('package_name', packages, ids=packages)

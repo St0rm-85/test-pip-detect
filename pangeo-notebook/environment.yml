@@ -37,9 +37,11 @@ dependencies:
  - intake-stac
  - intake-xarray
  - ipyleaflet
+ - ipympl
  - ipywidgets
  - jupyter-panel-proxy
  - jupyter-resource-usage
+ - jupyterlab-git
  - lz4
  - matplotlib-base
  - metpy
